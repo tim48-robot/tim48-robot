@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tim48-robot/tim48-robot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student interested in backend development and building useful things with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- JavaScript / Node.js  
+- Git & GitHub  
+- REST APIs  
+- Databases  
+
+---
+
+## 🔧 What I’m focusing on
+- Improving backend development skills  
+- Building small projects to explore server-side concepts  
+- Learning modern development workflows  
+
+---
+
+## 📫 Let’s connect
+Feel free to reach out if you want to collaborate or talk about tech!
+
+> "Still learning, still building."
